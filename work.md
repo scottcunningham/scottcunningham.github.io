@@ -4,6 +4,7 @@ title: Work
 permalink: /work/
 ---
 
+![Facebook logo]({{ "static/fb.png" | absolute_url }}){:height="100" width="100"}
 
 ## Production Engineer @ Facebook
 
@@ -14,6 +15,8 @@ Virtualization Infra team.
 
 ---
 
+![Ensighten logo]({{ "static/ensighten.png" | absolute_url }}){:height="100" width="100"}
+
 ## Infrastructure Engineer @ Ensighten
 
 ### April 2015 – March 2017, various remote locations (mostly London)
@@ -22,15 +25,19 @@ Infrastructure Engineer, working in close collaboration with developer teams to 
 
 ---
 
+![Pagefair logo]({{ "static/pagefair.png" | absolute_url }}){:height="100" width="100"}
+
 ## Software Engineer @ PageFair
 
-###August 2014 – February 2015, Dublin
+### August 2014 – February 2015, Dublin
 
 Full-stack software developer, primarily maintaining several Python-based services as well as JavaScript client-side code, server monitoring and maintenance.
 
 Technologies used: AWS, MySQL, Python, Django, Django Rest Framework, Twisted, RabbitMQ, Beanstalk, Redis, JavaScript, jQuery, Node.js, Browserify, Zuul, mocha-bdd, Nagios, nrpe.
 
 ---
+
+![Google logo]({{ "static/google.png" | absolute_url }}){:height="100" width="100"}
 
 ## SRE Intern @ Google
 
@@ -42,6 +49,8 @@ Technologies used: C++, googletest, JavaScript, SQL, Google internal datastores 
 
 ---
 
+![Google logo]({{ "static/google.png" | absolute_url }}){:height="100" width="100"}
+
 ## Cluster Management/Infrastructure SWE Intern (STEP) @ Google
 
 ### July 2012 – September 2012, Kraków, Poland
@@ -51,6 +60,8 @@ Migrated a legacy C++ search engine for an internal tool to a more robust and ma
 Technologies used: Java, Mockito, C++, SQL, Google internal datastores (GFS/Colossus), GWT.
 
 ---
+
+![Netsoc logo]({{ "static/netsoc.png" | absolute_url }}){:height="100" width="100"}
 
 ## Systems Administrator @ Netsoc (TCD)
 ### June 2011 – June 2014, Dublin, Ireland
