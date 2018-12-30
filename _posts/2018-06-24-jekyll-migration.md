@@ -55,4 +55,4 @@ Now it works. woot!
 ---
 
 
-Update: [the broken post is back!](http://127.0.0.1:4000/recursion/markdown/jinja2/jekyll/meta/2015/09/08/jinja-inside-of-jekyll-is-so-meta.html)
+Update: [the broken post is back!]({{ site.url }}/recursion/markdown/jinja2/jekyll/meta/2015/09/08/jinja-inside-of-jekyll-is-so-meta.html)
