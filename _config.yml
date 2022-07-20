@@ -1,11 +1,10 @@
-title: "[ s c o t t c . m e ] [[ Generic tech blog ]]"
-email: scott c u n n i n g h a m 9 2 [ a t ] gmail [doot] com
-description: >- # this means to ignore newlines until "baseurl:"
-    Just another tech blog.
+title: "scottc.me"
+email: ""
+description: "-"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: dril
+url: "https://scottc.me" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  scottcunningham
+linkedin_username: scott-cunningham-13552872
 
 # Build settings
 markdown: kramdown

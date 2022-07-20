@@ -10,8 +10,9 @@ permalink: /work/
 
 ### April 2017 – present, London
 
-Virtualization Infra team.
+2017 - 2019: Virtualization Infra
 
+2019 - present: Vulnerability Management
 
 ---
 
@@ -21,7 +22,7 @@ Virtualization Infra team.
 
 ### April 2015 – March 2017, various remote locations (mostly London)
 
-Infrastructure Engineer, working in close collaboration with developer teams to promote a DevOps culture. Working with Terraform, Puppet, Ansible and others to “automate all the things”.
+Working on building the company's infrastructure and tooling in close collaboration with developer teams with tools like Terraform, Puppet, Ansible and others to “automate all the things”.
 
 ---
 
@@ -31,9 +32,8 @@ Infrastructure Engineer, working in close collaboration with developer teams to 
 
 ### August 2014 – February 2015, Dublin
 
-Full-stack software developer, primarily maintaining several Python-based services as well as JavaScript client-side code, server monitoring and maintenance.
 
-Technologies used: AWS, MySQL, Python, Django, Django Rest Framework, Twisted, RabbitMQ, Beanstalk, Redis, JavaScript, jQuery, Node.js, Browserify, Zuul, mocha-bdd, Nagios, nrpe.
+Worked on maintaining several Python-based services as well as some JavaScript integrations, server monitoring and maintenance.
 
 ---
 
@@ -45,8 +45,6 @@ Technologies used: AWS, MySQL, Python, Django, Django Rest Framework, Twisted, R
 
 Developed a high-performance data aggregator in C++ to produce easily-digestible data for a JavaScript dashboard to enable the Google Ads SREs to monitor trends in their data over time.
 
-Technologies used: C++, googletest, JavaScript, SQL, Google internal datastores (Bigtable, GFS/Colossus).
-
 ---
 
 ![Google logo]({{ "static/google.png" | absolute_url }}){:height="100" width="100"}
@@ -55,9 +53,7 @@ Technologies used: C++, googletest, JavaScript, SQL, Google internal datastores 
 
 ### July 2012 – September 2012, Kraków, Poland
 
-Migrated a legacy C++ search engine for an internal tool to a more robust and maintainable Java system, with aim to enable improved test coverage and greater code sharing.
-
-Technologies used: Java, Mockito, C++, SQL, Google internal datastores (GFS/Colossus), GWT.
+Migrated a legacy C++ search engine for an internal tool to a more robust and maintainable Java system, with an aim to enable improved reliability, test coverage and code sharing.
 
 ---
 
