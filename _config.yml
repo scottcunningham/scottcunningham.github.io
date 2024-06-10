@@ -1,9 +1,9 @@
 title: "scottc.me"
 email: ""
 description: "-"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scottc.me" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  scottcunningham
+baseurl: ""
+url: "https://scottcunningham.ie"
+github_username: scottcunningham
 linkedin_username: scott-cunningham-13552872
 
 # Build settings
