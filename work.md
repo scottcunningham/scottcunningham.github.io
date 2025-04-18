@@ -12,7 +12,11 @@ permalink: /work/
 
 2017 - 2019: Virtualization Infra
 
-2019 - present: Vulnerability Management
+2019 - 2023: Vulnerability Management
+
+2023 - 2025: Platform Security
+
+2025 - now: Linux Kernel
 
 ---
 
